@@ -1,0 +1,21 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	background-color:#FFFF7F;
+}
+
+p, h2 {
+	color:#949400;
+}
+
+ol {
+	color:lime;
+	background-color:green;
+	border: 1px soild black;
+	text-shadow: 2px 2px 3px black;
+}
+
+ul {
+	color:green;
+	background-color:lime;
+	border: 1px soild black;
+}
