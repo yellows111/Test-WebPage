@@ -10,12 +10,12 @@ p, h2 {
 ol {
 	color:lime;
 	background-color:green;
-	border: 1px soild black;
+	border: 1px black;
 	text-shadow: 2px 2px 3px black;
 }
 
 ul {
 	color:green;
 	background-color:lime;
-	border: 1px soild black;
+	border: 1px black;
 }
