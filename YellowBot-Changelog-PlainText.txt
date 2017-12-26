@@ -1,0 +1,8 @@
+YellowBot Changelog:
+-------------------------------------------
+1.0.1c: Added y!stats and y!flipcoin... together, yes finally, after around 3 days, and also y!news and y!changelog have been added.
+1.0.1b Standalone: y!flipcoin.
+1.0.1a Standalone: y!stats (beta).
+1.0.0: Release, Changed y!rolldice to die!rolld6, and added die! commands, rolld4, rolld6, rolld8, rolld10, rolld12, rolld20, rolld50, rolld100 and added die!help.
+Beta 2: Added: y!stupid, y!facts, y!version, y!ping, and also y!rolldice.
+Beta 1: Started with: y!test, y!aimdeath, y!developers.
